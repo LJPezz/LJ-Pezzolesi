@@ -23,5 +23,6 @@ This section tracks my progress through the Exercism Python Track, focusing on c
 | Collatz Conjecture       | Iteration & termination      | ✅ Completed |
 | Black Jack               | Stateful logic & comparisons | ✅ Completed |
 | Little Sister’s Vocabulary | Strings & text manipulation | ✅ Completed |
+| Little Sister's Essay    | Text manipulation            | ✅ Completed |
 
 🔗 Exercism Profile: https://exercism.org/profiles/LJPezz
