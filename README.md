@@ -26,5 +26,6 @@ This section tracks my progress through the Exercism Python Track, focusing on c
 | Little Sister's Essay    | Text manipulation            | ✅ Completed |
 | Card Games               | Strings and number manipulation| ✅ Completed |
 | Chaitana's Colossal Coaster | String manipulation       | ✅ Completed |
+| Bob                      | Conditionals                 | ✅ Completed |
 
 🔗 Exercism Profile: https://exercism.org/profiles/LJPezz
