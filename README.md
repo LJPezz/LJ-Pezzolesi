@@ -28,5 +28,8 @@ This section tracks my progress through the Exercism Python Track, focusing on c
 | Card Games               | Strings and number manipulation| ✅ Completed |
 | Chaitana's Colossal Coaster | String manipulation       | ✅ Completed |
 | Bob                      | Conditionals                 | ✅ Completed |
+| Raindrops                | Strings and number manipulation | ✅ Completed |
+| Darts                    | Stateful logic & comparisons | ✅ Completed |
+
 
 🔗 Exercism Profile: https://exercism.org/profiles/LJPezz
