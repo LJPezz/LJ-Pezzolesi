@@ -30,6 +30,6 @@ This section tracks my progress through the Exercism Python Track, focusing on c
 | Bob                      | Conditionals                 | ✅ Completed |
 | Raindrops                | Strings and number manipulation | ✅ Completed |
 | Darts                    | Stateful logic & comparisons | ✅ Completed |
-
+| Perfect Numbers          | Number comparisons           | ✅ Completed |
 
 🔗 Exercism Profile: https://exercism.org/profiles/LJPezz
