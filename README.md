@@ -7,7 +7,8 @@
 - New Year’s Resolution — submitted an iteration on January 1  
 - Rookie — completed first exercise  
 - Member — joined Exercism
-- Whatever — completed the "Bob" exercise 
+- Whatever — completed the "Bob" exercise
+- Prolific Padawan — completed 20 Python exercises
 
 📘 Exercism — Python Track (Completed Exercises)
 
@@ -31,5 +32,11 @@ This section tracks my progress through the Exercism Python Track, focusing on c
 | Raindrops                | Strings and number manipulation | ✅ Completed |
 | Darts                    | Stateful logic & comparisons | ✅ Completed |
 | Perfect Numbers          | Number comparisons           | ✅ Completed |
+| Armstrong Numbers	       | Number theory                |	✅ Completed |
+| Reverse String           | Strings & slicing	          | ✅ Completed |
+| Pangram                  | Sets & membership         	| ✅ Completed |
+| Isogram	                 | Uniqueness & iteration       | ✅ Completed |
+| ISBN Verifier            | Validation & weighted sums  |	✅ Completed |
 
 🔗 Exercism Profile: https://exercism.org/profiles/LJPezz
+
